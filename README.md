@@ -1,8 +1,8 @@
-# alda-repl-clj
+# alda-repl-clj (DEPRECATED)
+
+> NOTE: As of May 2017, we have [rewritten the Alda REPL as part of the Java client](https://github.com/alda-lang/alda/issues/154).
 
 A Clojure implementation of an [Alda](https://github.com/alda-lang/alda) **R**ead-**E**val-**P**lay **L**oop.
-
-> NOTE: We eventually want to [rewrite the Alda REPL as part of the Java client](https://github.com/alda-lang/alda/issues/154).
 
 ## Development
 
