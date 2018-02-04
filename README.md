@@ -16,6 +16,6 @@ You can use the `boot dev` task to run an Alda REPL with any local changes.
 
 ## License
 
-Copyright © 2016 Dave Yarwood et al
+Copyright © 2012-2017 Dave Yarwood et al
 
 Distributed under the Eclipse Public License version 1.0.
